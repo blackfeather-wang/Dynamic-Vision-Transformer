@@ -48,9 +48,9 @@ We develop a Dynamic Vision Transformer (DVT) to automatically configure a prope
 ## Pre-trained Models
 
 
-|Backbone CNNs|# of Exits|# of Tokens|Links|
+|Backbone|# of Exits|# of Tokens|Links|
 |-----|------|-----|-----|
-|T2T-ViT-12| 3| 7x7-10x10-14x14|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/f7987d559f00435caa3d/?dl=1) / [Google Drive]()|
+|T2T-ViT-12| 3| 7x7-10x10-14x14|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/f7987d559f00435caa3d/?dl=1) / [Google Drive](https://drive.google.com/file/d/1-hu-OMWiwuc8iTd1PV-c8tv6jLZ8EVv9/view?usp=sharing)|
 
 - What are contained in the checkpoints:
 
