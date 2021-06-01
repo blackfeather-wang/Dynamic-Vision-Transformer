@@ -3,7 +3,7 @@
 
 This repo contains the official code and pre-trained models for the Dynamic Vision Transformer (DVT).
 
-- [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length]()
+- [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075.pdf)
 
 
 **Update on 2021/06/01: Release Pre-trained Models and the Inference Code on ImageNet.**
