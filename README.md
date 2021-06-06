@@ -19,6 +19,22 @@ We develop a Dynamic Vision Transformer (DVT) to automatically configure a prope
     <img src="figures/overview.png" width= "810">
 </p>
 
+
+
+## Citation
+
+If you find this work valuable or use our code in your own research, please consider citing us with the following bibtex:
+
+```
+@article{wang2021not,
+        title = {Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length},
+       author = {Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao},
+      journal = {arXiv preprint arXiv:2105.15075},
+         year = {2021}
+}
+
+```
+
 ## Results
 
 - Top-1 accuracy on ImageNet v.s. GFLOPs 
