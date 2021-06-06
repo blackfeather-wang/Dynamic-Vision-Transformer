@@ -32,7 +32,6 @@ If you find this work valuable or use our code in your own research, please cons
       journal = {arXiv preprint arXiv:2105.15075},
          year = {2021}
 }
-
 ```
 
 ## Results
