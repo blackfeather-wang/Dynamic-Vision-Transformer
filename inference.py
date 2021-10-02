@@ -9,6 +9,7 @@ from utils import *
 import math
 import argparse
 import models
+import models_deit
 from timm.models import create_model
 
 
@@ -61,7 +62,7 @@ def main():
         args.model,
         pretrained=False,
         num_classes=1000,
-        drop_rate=0.1,
+        drop_rate=0.0,
         drop_connect_rate=None,  
         drop_path_rate=0.1,
         drop_block_rate=None,
