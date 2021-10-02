@@ -130,7 +130,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_
 ```
 - We use NVIDIA APEX AMP for efficient training. It would be ok to turn it off (by removing '--amp'). But the GPU memory cost will significantly increase.
 
-## Transfer DVT to CIFAR10/CIFAR100
+## Transfer DVT to CIFAR-10/100
 We finetune our pretrained DVT_T2t_vit_12/14 to CIFAR10/100 in the same way as [T2T-ViT](https://github.com/yitu-opensource/T2T-ViT).
 
 ## Contact
