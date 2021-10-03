@@ -5,7 +5,7 @@ This repo contains the official **PyTorch** code and pre-trained models for the 
 
 - [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075.pdf)
 
-We also provide an implementation under the **MindSpor**e framework and train on a cluster of **Ascend** AI processors, code and pre-trained models will be available at [here](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer-MindSpore).
+We also provide an implementation under the **MindSpore** framework and train on a cluster of **Ascend** AI processors, code and pre-trained models will be available at [here](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer-MindSpore).
 
 **Update on 2021/10/02: Release the Training Code.**
 
