@@ -30,7 +30,7 @@ If you find this work valuable or use our code in your own research, please cons
 
 ```
 @inproceedings{wang2021not,
-        title = {Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length},
+        title = {Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition},
        author = {Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao},
     booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
          year = {2021}
