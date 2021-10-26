@@ -3,7 +3,7 @@
 
 This repo contains the official **PyTorch** code and pre-trained models for the Dynamic Vision Transformer (DVT).
 
-- [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075.pdf)
+- [Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition](https://arxiv.org/pdf/2105.15075.pdf)
 
 We also provide an implementation under the **MindSpore** framework and train DVT on a cluster of **Ascend** AI processors. Code and pre-trained models will be available at [here](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer-MindSpore).
 
