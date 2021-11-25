@@ -255,21 +255,3 @@ def deit_base_distilled_patch16_384(pretrained=False, **kwargs):
         model.load_state_dict(checkpoint["model"])
     return model
 
-
-
-
-
-
-if __name__=='__main__':
-    model = DVT_Deit_small()
-    # checkpoint = torch.load('2_checkpoint.pth', map_location=torch.device('cpu'))
-    # model.load_state_dict(checkpoint['model'], strict=True)
-
-    # print(model)
-    img = torch.rand(2, 3, 224, 224)
-
-    a, b, c = model(img)
-
-    print(a.size())
-    print(b.size())
-    print(c.size())
